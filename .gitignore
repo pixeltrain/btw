@@ -1,1 +1,4 @@
 /.import
+
+# gettext compiled files
+*.mo

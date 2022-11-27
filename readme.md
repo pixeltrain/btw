@@ -31,6 +31,11 @@ We are looking for a composer. You can contact us by email.
 It is unlikely that we will be able to offer you a large reward,
 but we are ready to consider different options.
 
+## Localization
+
+You can find `.po` translation files in the i18n directory.
+They can be edited using any text editor or special programs such as Poedit.
+
 ## Contacts
 
 - Ivan - @ordinary-dev - ordinarydev@protonmail.com
